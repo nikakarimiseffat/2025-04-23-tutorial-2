@@ -10,4 +10,4 @@ Branch – A parallel version of a repository that allows you to work on changes
 
 Pull request – A request to merge changes from one branch into another, often used in collaborative projects to review and approve code before integration.
 
-making a change to the local repository!
+fixes merge conflict!
